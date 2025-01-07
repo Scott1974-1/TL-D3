@@ -26,3 +26,5 @@ This will include the following upgrades.
 
 This will be a good collection of Files, Data and resources required to build this project.<br>
 Everything should be in one place and easy to access when needed.
+<br><br>
+<b>See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup.</b>
