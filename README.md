@@ -10,7 +10,7 @@ This will include the following upgrades.
 
 1- BTT Octopus Pro V1.1 MCU to replace the stock MCU.
 <br>
-2- Installing 2209 v1.3 Stepper drivers onto the new MCU.
+2- Installing 2209 v1.2 Stepper drivers onto the new MCU.
 <br>
 3- installing a Raspberry Pi 4b (8GB) with a 64GB Sandisk Extream SD Card.
 <br>
