@@ -20,7 +20,7 @@ This will include the following upgrades.
 
 6- Configuring the Printer in Klipper.
 
-7- Testign and completion.
+7- Testing and completion.
 
 
 
