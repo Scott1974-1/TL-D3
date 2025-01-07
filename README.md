@@ -27,4 +27,6 @@ This will include the following upgrades.
 This will be a good collection of Files, Data and resources required to build this project.<br>
 Everything should be in one place and easy to access when needed.
 <br><br>
-<b>See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup.</b>
+<b>See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup.<br>
+The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. These are add-ons for the stock TL-D3 Pro to make it better.</b><br>
+
