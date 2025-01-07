@@ -24,5 +24,5 @@ This will include the following upgrades.
 <br><br>
 
 
-This will be a good collection of Files, Data and resources required to build this project.
+This will be a good collection of Files, Data and resources required to build this project.<br>
 Everything should be in one place and easy to access when needed.
