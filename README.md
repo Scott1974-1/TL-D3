@@ -3,6 +3,9 @@ My Build of a Tenlong TL-D3 IDEX Printer with BTT Octopus Pro 1.1 MCU &amp; Rasp
 
 My Build of a Tenlong TL-D3 IDEX Printer with BTT Octopus Pro 1.1 with Klipper
 Will be coverting a stock Tenlong TL-D3 IDEX 3D printer into an updated better running machine using Klipper Firmware.
+The information collected in the GitHub is compiled from many different locations on the internet.
+This will be a good collection of Files, Data and resources required to build this project.
+Everything should be in one place and easy to access when needed.
 <br><br><br>
 This will include the following upgrades.
 <br><br>
@@ -21,12 +24,9 @@ This will include the following upgrades.
 6- Configuring the Printer in Klipper.
 <br>
 7- Testing and completion.
-<br><br>
 
 
-This will be a good collection of Files, Data and resources required to build this project.<br>
-Everything should be in one place and easy to access when needed.
-<br><br>
+
 <b>- See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup.<br>- The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints.</b><br>
 <br>
 The information collected in the GitHub is compiled from many different locations on the internet.
