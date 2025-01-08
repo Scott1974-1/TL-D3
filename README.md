@@ -7,7 +7,7 @@ The intent will be to build here as complete of a collection of files, data and 
 Hardware used for this build.<br>
 <br>
 MCU = BTT Octopus Pro v1.1<br>
-Steppers = 2209 v1.2
+Steppers = 2209 v1.2<br>
 CPU = Raspberry Pi 4b with 8GB ram & 64GB Sandisk Extreme Pro MicroSD Card<br>
 Chassis = TenLog TLD3 Pro<br>
 Display = TFT35 HDMI 3.5" touch screen<br>
