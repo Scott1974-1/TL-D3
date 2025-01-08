@@ -5,31 +5,26 @@ The information collected in the GitHub is compiled from many different location
 This will be a good collection of Files, Data and resources required to build this project.<br>
 Everything should be in one place and easy to access when needed.<br>
 <br><br><br>
-Hardware used for this build.<br>
+<b>Hardware used for this build.</b><br>
 <br>
-MCU = BTT Octopus Pro V1.1<br>
-CPU = Raspberry Pi 4b with 8GB ram & 64GB Sandisk Extreme Pro MicroSD Card<br>
-Base = TenLog TLD3 Pro<br>
-Display = TFT35 HDMI 3.5" touch screen<br>
-Power = 24V<br>
+<b>MCU =</b> BTT Octopus Pro V1.1<br>
+<b>CPU =</b> Raspberry Pi 4b with 8GB ram & 64GB Sandisk Extreme Pro MicroSD Card<br>
+<b>Base =</b> TenLog TLD3 Pro<br>
+<b>Display =</b> TFT35 HDMI 3.5" touch screen<br>
+<b>Power =</b> 24V<br>
 <br><br><br>
 This will include the following upgrades.<br>
-<br><br>
-1- BTT Octopus Pro V1.1 MCU to replace the stock MCU.
 <br>
-2- Installing 2209 v1.2 Stepper drivers onto the new MCU.
+1- BTT Octopus Pro V1.1 MCU to replace the stock MCU.<br>
+2- Installing 2209 v1.2 Stepper drivers onto the new MCU.<br>
+3- installing a Raspberry Pi 4b (8GB) with a 64GB Sandisk Extream SD Card.<br>
+4- Installing a 3.5" color touch screen to replace the stock screen.<br>
+5- Installing KlipperOS and Mainsail, KlipperScreen.<br>
+6- Configuring the Printer in Klipper.<br>
+7- Testing and completion.<br>
+<br><br><br>
+<b>Notes</b><br>
 <br>
-3- installing a Raspberry Pi 4b (8GB) with a 64GB Sandisk Extream SD Card.
-<br>
-4- Installing a 3.5" color touch screen to replace the stock screen.
-<br>
-5- Installing KlipperOS and Mainsail, KlipperScreen.
-<br>
-6- Configuring the Printer in Klipper.
-<br>
-7- Testing and completion.
-<br><br><br><br><br><br>
-<b>Notes</b><br><br>
-See the ura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
+See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
 The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. Plus a few extra STL files also.<br>
 <br>
