@@ -1,6 +1,6 @@
 # TL-D3 BUILD
 
-This project will be coverting a stock Tenlong TL-D3 IDEX 3D printer into a fully upgraded machine running on Klipper Firmware.<br>
+This project will be coverting a stock Tenlog TL-D3 IDEX 3D printer into a fully upgraded machine running on Klipper Firmware.<br>
 The information collected in the GitHub is compiled from many different locations on the internet.<br>
 The intent will be to build as complete of a collection of files, data and resources that are required to complete this project.<br>
 <br><br><br>
