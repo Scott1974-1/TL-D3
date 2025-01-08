@@ -24,8 +24,8 @@ This will include the following upgrades.
 6- Configuring the Printer in Klipper.
 <br>
 7- Testing and completion.
-<br><br><br>
-<b><u>Notes</b></u><br><br>
+<br><br><br><br><br><br>
+<b>Notes</b><br><br>
 See the ura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
 The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. Plus a few extra STL files also.<br>
 <br>
