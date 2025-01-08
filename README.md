@@ -1,9 +1,8 @@
 # TL-D3 BUILD
 
-This project will be coverting a stock Tenlong TL-D3 IDEX 3D printer into an updated better running machine using Klipper Firmware.<br>
+This project will be coverting a stock Tenlong TL-D3 IDEX 3D printer into a fully upgraded machine running on Klipper Firmware.<br>
 The information collected in the GitHub is compiled from many different locations on the internet.<br>
-This will be a good collection of Files, Data and resources required to build this project.<br>
-Everything should be in one place and easy to access when needed.<br>
+The intent will be to build here as complete of a collection of files, data and resources that are required to complete this project.<br>
 <br><br><br>
 <b>Hardware used for this build.</b><br>
 <br>
@@ -26,5 +25,5 @@ This will include the following upgrades.<br>
 <b>Notes</b><br>
 <br>
 See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
-The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. Plus a few extra STL files also.<br>
+The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. Plus a few extra STL files that will be good add-ons to the final build as well.<br>
 <br>
