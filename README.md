@@ -4,7 +4,7 @@ This project will be coverting a stock Tenlong TL-D3 IDEX 3D printer into a full
 The information collected in the GitHub is compiled from many different locations on the internet.<br>
 The intent will be to build here as complete of a collection of files, data and resources that are required to complete this project.<br>
 <br><br><br>
-## Hardware used for this build.<br>
+### Hardware used for this build.<br>
 <br>
 MCU = BTT Octopus Pro v1.1<br>
 Steppers = 2209 v1.2
@@ -13,7 +13,7 @@ Chassis = TenLog TLD3 Pro<br>
 Display = TFT35 HDMI 3.5" touch screen<br>
 Power = 24V<br>
 <br><br><br>
-## This will include the following upgrades.<br>
+### This will include the following upgrades.<br>
 <br>
 1- BTT Octopus Pro v1.1 MCU to replace the stock MCU.<br>
 2- Installing 2209 v1.2 Stepper drivers onto the new MCU.<br>
