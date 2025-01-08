@@ -1,5 +1,3 @@
-# Hardware
-
 ## Printer
 
 ### Chassis
@@ -12,16 +10,6 @@
 | Build Volume | 300mm | 300mm | 350mm |
 
 No mechanical modification on the printer except fitting of the screw domes for the new motherboard.
-
-## Electronic
-
-### Motherboard
-
-[BIGTREETECH OCTOPUS Pro V1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)
-
-### CPU
-
-
 
 ### Stepper driver
 
