@@ -1,11 +1,11 @@
 # TL-D3
 My Build of a Tenlong TL-D3 IDEX Printer with BTT Octopus Pro 1.1 MCU &amp; Raspberry Pi 4b (8GB)
 
-My Build of a Tenlong TL-D3 IDEX Printer with BTT Octopus Pro 1.1 with Klipper
-Will be coverting a stock Tenlong TL-D3 IDEX 3D printer into an updated better running machine using Klipper Firmware.
-The information collected in the GitHub is compiled from many different locations on the internet.
-This will be a good collection of Files, Data and resources required to build this project.
-Everything should be in one place and easy to access when needed.
+My Build of a Tenlong TL-D3 IDEX Printer with BTT Octopus Pro 1.1 with Klipper.<br>
+Will be coverting a stock Tenlong TL-D3 IDEX 3D printer into an updated better running machine using Klipper Firmware.<br>
+The information collected in the GitHub is compiled from many different locations on the internet.<br>
+This will be a good collection of Files, Data and resources required to build this project.<br>
+Everything should be in one place and easy to access when needed.<br>
 <br><br><br>
 This will include the following upgrades.
 <br><br>
