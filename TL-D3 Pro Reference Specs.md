@@ -17,11 +17,11 @@ No mechanical modification on the printer except fitting of the screw domes for 
 
 ### Motherboard
 
-[BIGTREETECH OCTOPUS Pro V1.0.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)
+[BIGTREETECH OCTOPUS Pro V1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)
 
 ### CPU
 
-**STM32F429ZG**
+
 
 ### Stepper driver
 
