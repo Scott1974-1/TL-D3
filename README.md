@@ -23,7 +23,6 @@ This will include the following upgrades:<br>
 6- Testing and completion.<br>
 <br><br><br>
 NOTES:<br>
-<br>
 See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
 The STL's posted here are very useful for making your TL-D3 Pro more compatible of doing better cleaner prints. Plus a few extra STL files that will be good add-ons to the final build as well.<br>
 The Images folder will have pictures in it of the build in progress. Before & after pictures also.<br>
