@@ -8,19 +8,26 @@ Hardware used for this build:<br>
 <br>
 MCU = BTT Octopus Pro v1.1<br>
 Steppers = 2209 v1.2<br>
-CPU = Raspberry Pi 4b with 8GB ram & 64GB Sandisk Extreme Pro MicroSD Card<br>
+CPU = Raspberry Pi 4b with 8GB ram & 256GB Sandisk Extreme Pro MicroSD Card<br>
 Chassis = TenLog TLD3 Pro<br>
 Display = TFT35 HDMI 3.5" touch screen<br>
 Power = 24V<br>
+Camera = Logitech C270<br>
 <br><br><br>
 This will include the following upgrades:<br>
 <br>
 1- BTT Octopus Pro v1.1 MCU to replace the stock MCU.<br>
 2- Installing 2209 v1.2 Stepper drivers onto the new MCU.<br>
-3- installing a Raspberry Pi 4b as a main CPU running MainsailOS<br>
+3- installing a RPI as a main CPU running MainsailOS<br>
 4- Installing a 3.5" color touch screen to replace the stock screen.<br>
-5- Configuring the Printer in Klipper.<br>
-6- Testing and completion.<br>
+5- Install the Camera for viewing prints and recording timelaps<br>
+6- Install the extension cables for the MicroSD & USB connections from the RPI and Octopus board<br>
+7- Rewire all the extruders, hotends, fans, and sensors to replace the old 15pin VGA cables used<br>
+8- Install new custom extruder covers, sensor mounts<br>
+9- Install custom 24v 5015 blowers to replace the old stock hotend & parts fans<br>
+10- put bottom TPU foot extensions on the bottom of the case to give a bit more hight and airflow to the bottom<br>
+11- Configuring the Printer in Klipper.<br>
+12- Testing and completion.<br>
 <br><br><br>
 NOTES:<br>
 See the cura profiles folder for all the cura profiles needed for the TL-D3 Pro. Very useful for getting cura setup. Works with Cura 5.9.0<br>
