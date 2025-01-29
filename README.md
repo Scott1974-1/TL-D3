@@ -11,7 +11,7 @@ Steppers = 2209 v1.2<br>
 CPU = Raspberry Pi 4b with 8GB ram & 256GB Sandisk Extreme Pro MicroSD Card<br>
 Chassis = TenLog TLD3 Pro<br>
 Display = TFT35 HDMI 3.5" touch screen<br>
-Power = 24V<br>
+Power = 24V Meanwell PS<br>
 Camera = Logitech C270<br>
 <br><br><br>
 This will include the following upgrades:<br>
